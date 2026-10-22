@@ -1,0 +1,60 @@
+Student Smith
+{
+  "firstname": "John",
+  "lastname": "Smith",
+  "course": "1",
+  "studentId": "KB111111",
+  "averageGrade": "4.8",
+  "country": "USA",
+  "foreignPassport": "FP100001"
+};
+Student Schmidt
+{
+  "firstname": "Anna",
+  "lastname": "Schmidt",
+  "course": "1",
+  "studentId": "KB222222",
+  "averageGrade": "5",
+  "country": "Germany",
+  "foreignPassport": "FP100002"
+};
+Student Petrov
+{
+  "firstname": "Ivan",
+  "lastname": "Petrov",
+  "course": "1",
+  "studentId": "KB333333",
+  "averageGrade": "4.9",
+  "country": "Ukraine",
+  "foreignPassport": "FP100003"
+};
+Student Hassan
+{
+  "firstname": "Ali",
+  "lastname": "Hassan",
+  "course": "2",
+  "studentId": "KB444444",
+  "averageGrade": "4.7",
+  "country": "Egypt",
+  "foreignPassport": "FP100004"
+};
+Student Garcia
+{
+  "firstname": "Maria",
+  "lastname": "Garcia",
+  "course": "1",
+  "studentId": "KB555555",
+  "averageGrade": "3.5",
+  "country": "Spain",
+  "foreignPassport": "FP100005"
+};
+Student Dubois
+{
+  "firstname": "Pierre",
+  "lastname": "Dubois",
+  "course": "1",
+  "studentId": "KB666666",
+  "averageGrade": "4.6",
+  "country": "France",
+  "foreignPassport": "FP100006"
+};
