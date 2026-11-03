@@ -1,0 +1,88 @@
+Student JohnSmith
+{
+  "firstname": "John",
+  "lastname": "Smith",
+  "course": "1",
+  "studentId": "KB111111",
+  "averageGrade": "4.8",
+  "country": "USA",
+  "foreignPassport": "FP100001"
+};
+Student AnnaSchmidt
+{
+  "firstname": "Anna",
+  "lastname": "Schmidt",
+  "course": "1",
+  "studentId": "KB222222",
+  "averageGrade": "5",
+  "country": "Germany",
+  "foreignPassport": "FP100002"
+};
+Student IvanPetrov
+{
+  "firstname": "Ivan",
+  "lastname": "Petrov",
+  "course": "1",
+  "studentId": "KB333333",
+  "averageGrade": "4.9",
+  "country": "Ukraine",
+  "foreignPassport": "FP100003"
+};
+Student AliHassan
+{
+  "firstname": "Ali",
+  "lastname": "Hassan",
+  "course": "2",
+  "studentId": "KB444444",
+  "averageGrade": "4.7",
+  "country": "Egypt",
+  "foreignPassport": "FP100004"
+};
+Student MariaGarcia
+{
+  "firstname": "Maria",
+  "lastname": "Garcia",
+  "course": "1",
+  "studentId": "KB555555",
+  "averageGrade": "3.5",
+  "country": "Spain",
+  "foreignPassport": "FP100005"
+};
+Student PierreDubois
+{
+  "firstname": "Pierre",
+  "lastname": "Dubois",
+  "course": "1",
+  "studentId": "KB666666",
+  "averageGrade": "4.6",
+  "country": "France",
+  "foreignPassport": "FP100006"
+};
+Tailor OlegShvets
+{
+  "firstname": "Oleg",
+  "lastname": "Shvets",
+  "licenseNumber": "TL1001",
+  "specialization": "Suits"
+};
+Tailor OlenaKravchenko
+{
+  "firstname": "Olena",
+  "lastname": "Kravchenko",
+  "licenseNumber": "TL1002",
+  "specialization": "General"
+};
+Singer IrynaMelnyk
+{
+  "firstname": "Iryna",
+  "lastname": "Melnyk",
+  "stageId": "SG2001",
+  "voiceType": "Soprano"
+};
+Singer TarasBondar
+{
+  "firstname": "Taras",
+  "lastname": "Bondar",
+  "stageId": "SG2002",
+  "voiceType": "Unknown"
+};
